@@ -37,11 +37,6 @@
                         "namespace": "SMW_NS_PROPERTY",
                         "fileNamePrefix": "SMW_PROPERTY\/",
                         "fileNameSuffix": ".mediawiki"
-                    },
-                    {
-                        "namespace": "PF_NS_FORM",
-                        "fileNamePrefix": "PF_FORM\/",
-                        "fileNameSuffix": ".mediawiki"
                     }
                 ]
             },
