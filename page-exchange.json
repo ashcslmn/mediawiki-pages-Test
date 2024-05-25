@@ -27,21 +27,6 @@
                         "namespace": "SMW_NS_PROPERTY",
                         "fileNamePrefix": "SMW_PROPERTY\/",
                         "fileNameSuffix": ".mediawiki"
-                    },
-                    {
-                        "namespace": "SMW_NS_PROPERTY",
-                        "fileNamePrefix": "SMW_PROPERTY\/",
-                        "fileNameSuffix": ".mediawiki"
-                    },
-                    {
-                        "namespace": "SMW_NS_PROPERTY",
-                        "fileNamePrefix": "SMW_PROPERTY\/",
-                        "fileNameSuffix": ".mediawiki"
-                    },
-                    {
-                        "namespace": "SMW_NS_PROPERTY",
-                        "fileNamePrefix": "SMW_PROPERTY\/",
-                        "fileNameSuffix": ".mediawiki"
                     }
                 ]
             },
