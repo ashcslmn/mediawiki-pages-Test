@@ -1,0 +1,81 @@
+{
+    "publisher": "PagePort",
+    "author": "PagePort",
+    "language": "en",
+    "url": "https:\/\/github.com\/ashcslmn\/mediawiki-pages-Test",
+    "packages": {
+        "1716656366": {
+            "globalID": "1716656366",
+            "description": "",
+            "version": "0.1",
+            "pages": [
+                {
+                    "name": "Main Page",
+                    "namespace": "NS_MAIN",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Main%2FMain%20Page.mediawiki"
+                },
+                {
+                    "name": "Test",
+                    "namespace": "NS_MAIN",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Main%2FTest.mediawiki"
+                },
+                {
+                    "name": "Main Page",
+                    "namespace": "NS_TALK",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Talk%2FMain%20Page.mediawiki"
+                },
+                {
+                    "name": "Smw import foaf",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/MediaWiki%2FSmw%20import%20foaf.mediawiki"
+                },
+                {
+                    "name": "Smw import owl",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/MediaWiki%2FSmw%20import%20owl.mediawiki"
+                },
+                {
+                    "name": "Smw import schema",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/MediaWiki%2FSmw%20import%20schema.mediawiki"
+                },
+                {
+                    "name": "Smw import skos",
+                    "namespace": "NS_MEDIAWIKI",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/MediaWiki%2FSmw%20import%20skos.mediawiki"
+                },
+                {
+                    "name": "Foaf:homepage",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Property%2FFoaf%3Ahomepage.mediawiki"
+                },
+                {
+                    "name": "Foaf:knows",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Property%2FFoaf%3Aknows.mediawiki"
+                },
+                {
+                    "name": "Foaf:name",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Property%2FFoaf%3Aname.mediawiki"
+                },
+                {
+                    "name": "Owl:differentFrom",
+                    "namespace": "SMW_NS_PROPERTY",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/Property%2FOwl%3AdifferentFrom.mediawiki"
+                },
+                {
+                    "name": "Group:Predefined properties",
+                    "namespace": "SMW_NS_SCHEMA",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/smw%2Fschema%2FGroup%3APredefined%20properties.mediawiki"
+                },
+                {
+                    "name": "Group:Schema properties",
+                    "namespace": "SMW_NS_SCHEMA",
+                    "url": "https:\/\/raw.githubusercontent.com\/ashcslmn\/mediawiki-pages-Test\/master\/smw%2Fschema%2FGroup%3ASchema%20properties.mediawiki"
+                }
+            ],
+            "requiredExtensions": []
+        }
+    }
+}
